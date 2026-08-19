@@ -1,0 +1,15 @@
+# Projetos de Modelagem de Banco de Dados - Módulo 1
+
+Esta pasta contém os arquivos de modelagem de banco de dados desenvolvidos durante o Módulo 1 da Formação SQL Database Specialist da DIO.
+
+## Estrutura dos Projetos
+
+| Projeto | Descrição |
+| :--- | :--- |
+| **Atividade Prática 1: E-commerce** | Modelagem completa de um banco de dados para um sistema de comércio eletrônico, incluindo o gerenciamento de clientes, pedidos, pagamentos e status de entrega. |
+| **Atividade Prática 2: Oficina Mecânica** | Modelagem de um sistema de controle e gerenciamento de execução de ordens de serviço (OS) em uma oficina mecânica, abrangendo veículos, mecânicos, equipes e materiais. |
+
+## Informações Adicionais
+
+- Os modelos foram criados seguindo as práticas recomendadas de normalização e modelagem relacional aprendidas no curso.
+- Cada subpasta contém o diagrama relacional (em formato de imagem) e, se aplicável, o script SQL correspondente para criação das estruturas.
